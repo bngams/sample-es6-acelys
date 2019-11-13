@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "category": "laptop",
+            "name": "Thinkpad",
+            "price": 500
+        },
+        {
+            "id": 2,
+            "category": "laptop",
+            "name": "MacBookPro",
+            "price": 1500
+        }
+    ],
+    "seller": [
+        {
+            "id": 1,
+            "name": "fnac"
+        },
+        {
+            "id": 2,
+            "name": "amazon"
+        }
+    ]
+}
